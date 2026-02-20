@@ -85,9 +85,15 @@ window.HEALTH_DASHBOARD_DATA = {
         ]
       },
       "exercise": {
-        "workouts": [],
+        "workouts": [
+          {
+            "type": "strength",
+            "duration": 30,
+            "exercises": []
+          }
+        ],
         "steps": null,
-        "activeMinutes": 0
+        "activeMinutes": 30
       }
     }
   },
