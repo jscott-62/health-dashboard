@@ -64,7 +64,7 @@ window.HEALTH_DASHBOARD_DATA = {
         "target": 8
       },
       "sleep": {
-        "hours": null,
+        "hours": 7,
         "quality": 0
       },
       "nutrition": {
