@@ -50,7 +50,7 @@ window.HEALTH_DASHBOARD_DATA = {
         "meals-logged": false,
         "steps-goal": false
       },
-      "weight": null,
+      "weight": 193,
       "bodyFat": null,
       "measurements": {
         "waist": null,
@@ -60,7 +60,7 @@ window.HEALTH_DASHBOARD_DATA = {
         "thighs": null
       },
       "water": {
-        "glasses": 0,
+        "glasses": 1,
         "target": 8
       },
       "sleep": {
