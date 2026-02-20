@@ -45,7 +45,7 @@ window.HEALTH_DASHBOARD_DATA = {
       "habits": {
         "water": false,
         "exercise": true,
-        "supplements": false,
+        "supplements": true,
         "sleep-quality": false,
         "meals-logged": false,
         "steps-goal": false
