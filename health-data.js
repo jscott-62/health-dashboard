@@ -60,7 +60,7 @@ window.HEALTH_DASHBOARD_DATA = {
         "thighs": null
       },
       "water": {
-        "glasses": 6,
+        "glasses": 4,
         "target": 8
       },
       "sleep": {
