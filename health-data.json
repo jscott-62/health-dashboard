@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-19",
+  "lastUpdated": "2026-02-20",
   "profile": {
     "heightInches": 70,
     "startWeight": 195,
@@ -7,15 +7,89 @@
   },
   "habits": {
     "definitions": [
-      { "id": "water", "label": "Water (8+ glasses)", "order": 0 },
-      { "id": "exercise", "label": "Exercise completed", "order": 1 },
-      { "id": "supplements", "label": "Supplements taken", "order": 2 },
-      { "id": "sleep-quality", "label": "Sleep (7+ hours)", "order": 3 },
-      { "id": "meals-logged", "label": "Meals logged", "order": 4 },
-      { "id": "steps-goal", "label": "Steps goal met", "order": 5 }
+      {
+        "id": "water",
+        "label": "Water (8+ glasses)",
+        "order": 0
+      },
+      {
+        "id": "exercise",
+        "label": "Exercise completed",
+        "order": 1
+      },
+      {
+        "id": "supplements",
+        "label": "Supplements taken",
+        "order": 2
+      },
+      {
+        "id": "sleep-quality",
+        "label": "Sleep (7+ hours)",
+        "order": 3
+      },
+      {
+        "id": "meals-logged",
+        "label": "Meals logged",
+        "order": 4
+      },
+      {
+        "id": "steps-goal",
+        "label": "Steps goal met",
+        "order": 5
+      }
     ]
   },
-  "days": {},
+  "days": {
+    "2026-02-20": {
+      "habits": {
+        "water": false,
+        "exercise": true,
+        "supplements": false,
+        "sleep-quality": false,
+        "meals-logged": false,
+        "steps-goal": false
+      },
+      "weight": null,
+      "bodyFat": null,
+      "measurements": {
+        "waist": null,
+        "chest": null,
+        "hips": null,
+        "arms": null,
+        "thighs": null
+      },
+      "water": {
+        "glasses": 0,
+        "target": 8
+      },
+      "sleep": {
+        "hours": null,
+        "quality": 0
+      },
+      "nutrition": {
+        "meals": [],
+        "supplements": [
+          {
+            "name": "Pro-biotic",
+            "taken": false
+          },
+          {
+            "name": "GLP",
+            "taken": false
+          },
+          {
+            "name": "Ketones",
+            "taken": false
+          }
+        ]
+      },
+      "exercise": {
+        "workouts": [],
+        "steps": null,
+        "activeMinutes": 0
+      }
+    }
+  },
   "goals": {
     "weightTarget": 180,
     "bodyFatTarget": 15,
@@ -26,9 +100,18 @@
     "weeklyActiveMinutesTarget": 150
   },
   "supplementDefinitions": [
-    { "id": "pro-biotic", "name": "Pro-biotic" },
-    { "id": "glp", "name": "GLP" },
-    { "id": "ketones", "name": "Ketones" }
+    {
+      "id": "pro-biotic",
+      "name": "Pro-biotic"
+    },
+    {
+      "id": "glp",
+      "name": "GLP"
+    },
+    {
+      "id": "ketones",
+      "name": "Ketones"
+    }
   ],
   "exercisePresets": [
     "Bench Press",
