@@ -72,7 +72,7 @@ window.HEALTH_DASHBOARD_DATA = {
         "supplements": [
           {
             "name": "Pro-biotic",
-            "taken": false
+            "taken": true
           },
           {
             "name": "GLP",
@@ -80,7 +80,7 @@ window.HEALTH_DASHBOARD_DATA = {
           },
           {
             "name": "Ketones",
-            "taken": false
+            "taken": true
           }
         ]
       },
