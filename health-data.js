@@ -68,7 +68,13 @@ window.HEALTH_DASHBOARD_DATA = {
         "quality": 0
       },
       "nutrition": {
-        "meals": [],
+        "meals": [
+          {
+            "name": "Breakfast",
+            "description": "4 Bacon, 3 eggs",
+            "time": "11:05"
+          }
+        ],
         "supplements": [
           {
             "name": "Pro-biotic",
