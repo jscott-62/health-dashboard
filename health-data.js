@@ -78,6 +78,11 @@ window.HEALTH_DASHBOARD_DATA = {
             "name": "Lunch",
             "description": "Meat sticks",
             "time": "15:06"
+          },
+          {
+            "name": "Dinner",
+            "description": "Chicken, Guac, salsa, cheese, lettuce",
+            "time": "19:06"
           }
         ],
         "supplements": [
