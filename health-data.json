@@ -71,7 +71,7 @@
         "supplements": [
           {
             "name": "Pro-biotic",
-            "taken": false
+            "taken": true
           },
           {
             "name": "GLP",
@@ -79,7 +79,7 @@
           },
           {
             "name": "Ketones",
-            "taken": false
+            "taken": true
           }
         ]
       },
